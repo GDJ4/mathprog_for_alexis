@@ -1,2 +1,2 @@
-*.ipynb
-.ipynb_checkpoints/
+*.ipynb_checkpoints
+./lab1/ipynb_checkpoints/
